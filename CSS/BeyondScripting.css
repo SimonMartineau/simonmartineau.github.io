@@ -67,14 +67,14 @@ ul
 header
 {
 	width:100%;
-	font-size:15px;
-	text-align:center;
-	display:inline-block;
+	display:inline;
 	position: sticky;
 	top:0px;
 }
 header h1, header nav, .button
 {
+	font-size:15px;
+	text-align:center;
 	margin: auto;
 	display:inline-block;
 }

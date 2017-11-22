@@ -96,7 +96,7 @@ header h1, header nav
 .backgroundpicture
 {
 	background-image:url(../IMG/GreyMountain.png);
-	background-size:cover;
+	background-size:100% 100%;
 	background-repeat: no-repeat;
 	
 }

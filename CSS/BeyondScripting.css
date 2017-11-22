@@ -81,13 +81,12 @@ header h1, header nav, .button
 header h1
 {
 	width:40%;
-	min-width:600px;
+	min-width:300px;
 }
 
 header nav
 {
 	width:40%;
-	min-width:400px;
 }
 .button
 {

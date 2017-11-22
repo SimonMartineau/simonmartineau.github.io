@@ -77,8 +77,10 @@ header
 header h1, header nav
 {
 	width:48%;
+	min-width:300px;
 	display:inline-block;
 	font-size:30px;
+	float:left;
 }
 .button
 {

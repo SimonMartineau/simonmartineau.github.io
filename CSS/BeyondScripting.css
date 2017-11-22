@@ -44,9 +44,10 @@ a
 }
 .rounded
 {
-	border-bottom: 5px solid rgb(100, 100, 100);
-    border-bottom: 5px solid rgba(100, 100, 100, 1);
-    border-bottom-left-radius: 10px;
+   	border-bottom: 5px solid rgb(100, 100, 100);
+   	border-bottom: 5px solid rgba(100, 100, 100, 1);
+    	border-bottom-left-radius: 10px;
+	
 }
 ul
 {
@@ -96,6 +97,7 @@ header h1, header nav
 {
 	background-image:url(../IMG/GreyMountain.png);
 	background-size:contain;
+	background-repeat: no-repeat;
 	
 }
 section

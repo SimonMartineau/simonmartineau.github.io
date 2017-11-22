@@ -73,6 +73,7 @@ header
 }
 header h1, header nav, .button
 {
+	min-height:30px;
 	text-align:center;
 	margin: auto;
 	display:inline-block;
@@ -91,7 +92,6 @@ header nav
 {
 	font-size:15px;
 	width:40%;
-	min-height:30px;
 	min-width:200px;
 }
 .button:after

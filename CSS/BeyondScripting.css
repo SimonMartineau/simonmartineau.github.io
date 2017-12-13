@@ -25,9 +25,10 @@ flex-parent
 }
 flex-child
 {
+	flex: 0 0 100%;
 	flex:1;
 }
-.center-child
+.center
 {
 	margin:auto;
 }
